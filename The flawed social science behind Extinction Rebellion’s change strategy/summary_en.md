@@ -52,15 +52,32 @@ Furthermore, Chenoweth and Stephan quote and affirm Rutgers University sociologi
 
 ### The Gene Sharp model and XR’s arrest strategy
 
-XR’s strategy is the unfounded belief that these nonviolent strategies can be mobilised to effectively “shut down” the capital city until the government is forced to capitulate to XR’s demands. According to Hallam, this view is constructed from the studies of Harvard scholar Gene Sharp.
+XR’s strategy comes from the unfounded belief that these nonviolent strategies can be mobilised to effectively “shut down” the capital city until the government is forced to capitulate to XR’s demands. According to Hallam, this view is constructed from the studies of Harvard scholar Gene Sharp.
 
-heory of change was concerned with using nonviolent methods to overturn or devolve centralised states  Like Chenoweth and Stephan, Sharp's work is based principally on the study of resistance against dictatorships
+Sharp’s theory of change is about using nonviolent methods to overturn or devolve centralised states. Like the 3,5% research, Sharp's work is based principally on the study of resistance against dictatorships.
 
+His model is based on the idea that for a government to function, it relies on a baseline of “consent” from wider society. Methods of exclusively *nonviolent* civil disobedience are mechanisms to “disrupt” this base of tacit public consent by mobilising people to cease their "obedience", which will make the state escalate its violence. As state's violence increases, the more illegitimate is appears in the eye of the public, the more accelerates the disruption of the tacit consent. The intensification of violence by the state ends up collapsing it.
+
+Since all this theory is focused on undermining the legitimacy of an overtly authoritarian regime, there is no evidence that it would apply to a Western neoliberal democracy like the UK, specially without a context of grassroots community-organising in the city being disrupted. What's then missed by Hallam is that XR should be embedded with and mobilised through diverse communities throughout the capital, to ensure they continue to support the disruption action as the state radicalises its responses.
+
+This is why disruptions like the one targeting the London tube system, and related ones which affect ordinary Londoners, backfired. While most people are worried about climate change, they do not grasp the gravity of the situation threatening not just social collapse but even human extinction, and don't see that the very system which marginalises, weakens and undermines them is simultaneously and co-extensively responsible for this extinction trajectory.
+
+Since XR's actions have been developed without consultation and engagement from London’s communities, it's very easy to alienate the sources of mass support it needs in the capital. XR's strategy is likely to lend itself to tabloid criticisms claiming that XR is not actually a ‘mass’ movement, but one by a specific privileged constituency, a criticism likely to be agreed upon by ordinary working people whose lives are being disrupted. The result would be escalating disruption, but haemorrhaging support driving an intensification of police-state powers, with dwindling prospects of XR’s demands actually being implemented.
 
 ### The race and class privilege of XR
 
 ## Recommendations:
 1. Diversifying XR from the top down
+  XR has been founded, led and designed by a small number of people who are predominantly (though not exclusively) white and middle class. There's work needed to ensure that racial and class insularities are resolved by cementing diversity at its core, and then throughout its operations.
+
+  The biggest priority is to ensure that organisationally — core leadership, strategy and other design and decision-making groups — XR diversifies so that it is a more representative organisation.
+
+  More diverse campaigns, which include multiple age groups, classes, occupations, ideologies, and genders, are likelier to have links to members of the regime, such that opportunities to create divisions within the regime become more ubiquitous.
+
+  Furthermore, a concerted community-organising strategy is needed that involves adapting to, consulting and engaging with individuals, groups and networks that can allow XR to reach across social, cultural and class divides, to enfranchise diverse communities — especially in cities, localities and nations where XR is planning or organising disruption actions.
+
+  That also requires diversifying the range of nonviolent strategies adopted. As shown above, XR’s fixation on mass arrests as the singular strategy to cause the state to capitulate has no historical precedent and no basis in the scientific literature. Sharp derived [hundreds of other nonviolent strategies](https://www.brandeis.edu/peace-conflict/pdfs/198-methods-non-violent-action.pdf) which can fully enrol minority groups in designing and engaging in successful high-impact public actions.
+
 2. Connecting the climate crisis to class, race and beyond
 3. Connecting with critical sectors
 4. Targeted disruption against pivotal leverage points in the system
