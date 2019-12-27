@@ -67,7 +67,7 @@ Since XR's actions have been developed without consultation and engagement from 
 ### The race and class privilege of XR
 
 ## Recommendations:
-1. Diversifying XR from the top down
+### 1. Diversifying XR from the top down
   XR has been founded, led and designed by a small number of people who are predominantly (though not exclusively) white and middle class. There's work needed to ensure that racial and class insularities are resolved by cementing diversity at its core, and then throughout its operations.
 
   The biggest priority is to ensure that organisationally — core leadership, strategy and other design and decision-making groups — XR diversifies so that it is a more representative organisation.
@@ -78,8 +78,8 @@ Since XR's actions have been developed without consultation and engagement from 
 
   That also requires diversifying the range of nonviolent strategies adopted. As shown above, XR’s fixation on mass arrests as the singular strategy to cause the state to capitulate has no historical precedent and no basis in the scientific literature. Sharp derived [hundreds of other nonviolent strategies](https://www.brandeis.edu/peace-conflict/pdfs/198-methods-non-violent-action.pdf) which can fully enrol minority groups in designing and engaging in successful high-impact public actions.
 
-2. Connecting the climate crisis to class, race and beyond
-3. Connecting with critical sectors
-4. Targeted disruption against pivotal leverage points in the system
+### 2. Connecting the climate crisis to class, race and beyond
+### 3. Connecting with critical sectors
+### 4. Targeted disruption against pivotal leverage points in the system
 
 ## Concluding thoughts
