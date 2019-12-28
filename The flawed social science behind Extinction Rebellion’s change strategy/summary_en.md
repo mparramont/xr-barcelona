@@ -68,18 +68,36 @@ Since XR's actions have been developed without consultation and engagement from 
 
 ## Recommendations:
 ### 1. Diversifying XR from the top down
-  XR has been founded, led and designed by a small number of people who are predominantly (though not exclusively) white and middle class. There's work needed to ensure that racial and class insularities are resolved by cementing diversity at its core, and then throughout its operations.
+XR has been founded, led and designed by a small number of people who are predominantly (though not exclusively) white and middle class. There's work needed to ensure that racial and class insularities are resolved by cementing diversity at its core, and then throughout its operations.
 
-  The biggest priority is to ensure that organisationally — core leadership, strategy and other design and decision-making groups — XR diversifies so that it is a more representative organisation.
+The biggest priority is to ensure that organisationally — core leadership, strategy and other design and decision-making groups — XR diversifies so that it is a more representative organisation.
 
-  More diverse campaigns, which include multiple age groups, classes, occupations, ideologies, and genders, are likelier to have links to members of the regime, such that opportunities to create divisions within the regime become more ubiquitous.
+More diverse campaigns, which include multiple age groups, classes, occupations, ideologies, and genders, are likelier to have links to members of the regime, such that opportunities to create divisions within the regime become more ubiquitous.
 
-  Furthermore, a concerted community-organising strategy is needed that involves adapting to, consulting and engaging with individuals, groups and networks that can allow XR to reach across social, cultural and class divides, to enfranchise diverse communities — especially in cities, localities and nations where XR is planning or organising disruption actions.
+Furthermore, a concerted community-organising strategy is needed that involves adapting to, consulting and engaging with individuals, groups and networks that can allow XR to reach across social, cultural and class divides, to enfranchise diverse communities
 
-  That also requires diversifying the range of nonviolent strategies adopted. As shown above, XR’s fixation on mass arrests as the singular strategy to cause the state to capitulate has no historical precedent and no basis in the scientific literature. Sharp derived [hundreds of other nonviolent strategies](https://www.brandeis.edu/peace-conflict/pdfs/198-methods-non-violent-action.pdf) which can fully enrol minority groups in designing and engaging in successful high-impact public actions.
+That also requires diversifying the range of nonviolent strategies adopted. As shown above, XR’s fixation on mass arrests as the singular strategy to cause the state to capitulate has no historical precedent and no basis in the scientific literature. Sharp derived [hundreds of other nonviolent strategies](https://www.brandeis.edu/peace-conflict/pdfs/198-methods-non-violent-action.pdf) which can fully enrol minority groups in designing and engaging in successful high-impact public actions.
 
 ### 2. Connecting the climate crisis to class, race and beyond
+
+XR should enfranchise communities by connecting their concerns, grievances, struggles and aspirations with the climate crisis. That requires communicating a systems-grounded narrative, recognising that the crisis of planetary extinction is integral to a broader economic and political system responsible for the challenges and obstacles people face here and now. XR’s demands should be fleshed out economically and politically, drawing on the scientific literature, in order to ‘tell the truth’ about what needs to be done.
+
+XR should seek to connect itself with and thereby ‘tell the truth’ on the science around the system change necessary to avert extinction; as well as the opportunities for a better world offered by such system change. This way, communities across society will be empowered to envisage how the transition necessary to avoid extinction is also the only crash programme that will stave off catastrophe in the future, as well as here and now transform their lives for the better, put food on the table, allow them to enjoy healthy working lives, free them from fear of draconian policing, give all equal opportunities, and allow them to provide the best for their families.
+
 ### 3. Connecting with critical sectors
+
+XR needs to explicitly and systematically broaden its conceptualisation of “the regime” which it is disrupting far beyond that of the state, since a vast body of data shows that the modern Western democratic state is not [actually the locus of power and political decision-making](https://corporateeurope.org/sites/default/files/big_business_britain_2_0.pdf). XR needs to connect directly to people, practitioners, experts, etc from across all relevant sectors: energy, finance, agriculture, and so on, to deeply and collectively explore the options and strategies for system change.
+
+XR is in a decent position to spearhead this given that it is already attracting people from multiple professions and sectors — such as medical doctors, scientists and lawyers — and has set-up a business engagement platform. This needs to be pursued strategically as a core XR action. Fossil fuel companies, banks, IT businesses, agribusiness and so on should all be targeted via engagement actions designed to forge channels of communication and education.
+
+XR should prioritise cultivating direct sympathetic ties with the most critical sectors of the existing system which XR wants to change. This is so that channels of communication offer opportunities for education, sympathetic defection, and thus opportunities for those who ‘defect’ to do so while remaining within their institutions and working to transform them from within through internal actions which can also be supported by wider XR platforms.
+
 ### 4. Targeted disruption against pivotal leverage points in the system
 
-## Concluding thoughts
+A scattergun approach to disruption actions designed to simply “shut down the capital” will not work for the reasons described above, but will end up sowing divisions and animosities among the constituencies required to support mass disruption actions.
+
+Therefore, these strategies need to be deployed in a targeted way based on understanding the [key leverage points in the existing system](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/) — that means focusing actions on disrupting the powerful, not the powerless, with an emphasis on the primary centres of power driving the climate crisis. These are the same centres of power deepening inequalities, debilitating public services, sowing divisions, and essentially destabilising human social, political and economic systems.
+
+Rupert Read has already made a [compelling case for XR](https://medium.com/@rupertjread/truth-and-its-consequences-eb2faa5eb458) to refocus its strategy on disrupting institutions of power, thus situating the movement within the concerns of the 99 percent.
+
+XR can become a locus point for two types of activity: disruption actions, as well as engagement actions; all of which need to be carefully directed at key system leverage points — and in a way which galvanises diverse grassroots communities especially in the cities where actions are organised.
