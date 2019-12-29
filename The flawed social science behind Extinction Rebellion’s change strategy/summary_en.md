@@ -2,7 +2,7 @@
 
 https://medium.com/insurge-intelligence/the-flawed-science-behind-extinction-rebellions-change-strategy-af077b9abb4d
 
-Written Dr Nafeez Ahmed is an award-winning investigative journalist, change strategist and systems theorist. He is a supporter of XR, the School Strikes for Climate, the Sunrise Movement, etc.
+Written by Dr Nafeez Ahmed, an award-winning investigative journalist, change strategist and systems theorist. He is a supporter of XR, the School Strikes for Climate, the Sunrise Movement, etc.
 
 Written after the "fiasco" when XR disrupted the London Underground, angering and alienating  commuters from East London, many black and ethnic minorities. He hopes the movement continues to succeed: "This piece is not an attack on XR. It is a call to do better".
 
@@ -11,26 +11,27 @@ Written after the "fiasco" when XR disrupted the London Underground, angering an
 ## Critique:
 
 ###  Mass arrests as the core strategy
-Roger Hallam (co-founder and chief strategist of XR) mass arrests as the principal tactical approach of XR protest actions; this has been reiterated by other influential XR activists. They  
-* explain that the strategy was derived from social movements for large-scale change (e.g. US Civil Rights movement - Martin Luther Kind, Indian's Independence movement - Gandhi).
-* point to research indicating that 3,5% committed to a cause and participating in non-violent protests have a good guarantee of success.
+Roger Hallam (co-founder and chief strategist of XR) holds mass arrests as the principal tactical approach of XR protest actions; this has been reiterated by other influential XR activists. They:
+* explain that the strategy was derived from social movements for large-scale change, e.g. US Civil Rights movement - Martin Luther King, and the Indian's Independence movement - Gandhi.
+* point to research indicating that 3,5% of a society committed to a cause and participating in non-violent protests have a good guarantee of success.
+The author rebutes both points below:
 
 ### Two major movements by people of colour that inspired XR — and why XR has wrongly expropriated them
 
-The author finds the fundamental problem that black civil rights and Indian independence movements were not about pushing for comprehensive system-change, but had more specific goals. Therefore, there's questions about how can they apply to the XR cause.
+The author finds the fundamental problem that the Black Civil Rights and Indian Independence movements were not about pushing for comprehensive system-change, but had more specific goals. Therefore, there's questions about how can they apply to the XR cause.
 * Black Civil Rights Movement:
   * Grassroots, broad based. Related to the suffering of black communities, aimed at ending the segregation, racism, discrimination and violence against them.
-  * It worked because the people who drove the movement were the very same who were suffering at the hands of the racist violence they wanted to change
-  * Disruption actions were targeted precisely at disrupting the system of injustice that was breaching their rights
+  * It worked because the people who drove the movement were the very same who were suffering at the hands of the racist violence they wanted to change.
+  * Disruption actions were targeted precisely at disrupting the system of injustice that was breaching their rights.
 * Indian Independence movement
-  * Premised on the reality of massive, widespread discontent and opposition to British rule, and violence against Indians.
-  * Started in a grassroots way from the lower castes, took years of organizing, bridge building between disparate communities and networks
-  * Used different types of targeted disruption actions, which coalesced into mass mobilizations. Goal was to repel British rule
-Both disrupted an existing, highly visible regime of oppressive violence targeted at the subject communities of the movement. The movement thus lacked legitimacy in these communities. Both were people of color vs white supremacism. Both aimed at directly increasing the costs of the repressive violence.
+  * Premised on the massive, widespread discontent and opposition to British rule, and violence against Indians.
+  * Started in a grassroots way from the lower castes, took years of organizing and bridge building between disparate communities and networks.
+  * Used different types of targeted disruption actions, which coalesced into mass mobilizations. Goal was to repel British rule.
+Both disrupted an existing, highly visible regime of oppressive violence targeted at the subject communities of the movement, the regime thus lacked legitimacy in these communities. Both were people of color vs white supremacism. Both aimed at directly increasing the costs of the repressive violence.
 
 This model cannot be directly applied to the modern Western context: structures of power are far more complex, repression more invisible, and the institutions being targeted have no intuitively obvious connection to the demand being made. Mass arrests of largely privileged white people to make the government capitulate to XR’s demands about climate change does not follow from the logic of these historical cases.
 
-White people are not being brutalised en masse by a repressive state apparatus. Therefore, overwhelming it through mass arrests will not force the police and authorities to reconsider their violent tactics. Instead, it will provoke escalation of police-state powers in a way that could turn popular opinion against the movement, due to its lack of connection with the grievances and challenges experienced by the majority of citizens, white, black, brown and beyond.
+White people are not being brutalised en masse by a repressive state apparatus. Therefore, overwhelming it through mass arrests will not force the police and authorities to reconsider their violent tactics. Instead, it will provoke escalation of police-state powers in a way that could turn popular opinion against the movement, due to its lack of connection with the grievances and challenges experienced by the majority of citizens, including ethnic minorities.
 
 In both the American civil rights and Indian independence movements, there was a direct, organic connection between the people protesting, grassroots communities affected by the issues being protested, and the repressive institutions being disrupted through direct action. That is why they were able to build momentum rapidly. This is simply not the case with current XR strategies.
 
@@ -38,7 +39,7 @@ In both the American civil rights and Indian independence movements, there was a
 
 Hallam cites the work of Erica Chenoweth and Maria Stephan, who concludes that nonviolent protests which engage a threshold of no less than 3.5 percent of the population, invariably succeed in producing serious political change.
 
-This is wrongly extrapolated to XR's goals because the 3,5% figure comes from a database comparing nonviolent and violent resistance strategies aimed at producing “regime change”, mainly in conflict settings concerning authoritarian regimes. Very few of these cases involve overthrow of a democracy, none of them involved successful nonviolent efforts to overthrow or change a Western liberal democracy.
+This is wrongly extrapolated to XR's goals because the 3,5% figure comes from a database comparing nonviolent and violent resistance strategies aimed at producing “regime change”, mainly in conflict settings concerning authoritarian regimes. Very few of these cases involved overthrowing a democracy, none of them involved successful nonviolent efforts to overthrow or change a Western liberal democracy.
 
 Chenoweth's work comes from a book "Why Civil Resistance Works: The Strategic Logic of Nonviolent Conflict", claimed to be focused on identifying the efficacy of nonviolent resistance in the context of its usefulness for American policymakers. Instead of trying to understand and study the detail of these cases, the authors seek only to abstract from them the tools they want. In the Indian Independence and the South Africa Apartheid, focus is put on the non-violent parts, while ignoring the violent sections in both cases (1948 Accra Riots in India, 1970-1990 armed struggle in South Africa).
 
@@ -46,7 +47,7 @@ The issue the author finds with the research is that research it's done in an Eu
 
 None of the cases studied are aimed at producing the necessary scale of comprehensive economic, political, and cultural system transformation, encompassing finance, energy, food, water, infrastructure, society, culture, and beyond, to avoid climate catastrophe.
 
-The 3,5% research involves 323 cases using a wide range of different strategies with mass arrests figuring as just one potential approach of a wide diversity of strategies building on years of community mobilisation, unlike XR’s current fixation on mass arrests.
+The 3,5% research involves 323 cases using a wide range of different strategies, with mass arrests figuring as just one potential approach of a wide diversity of strategies building on years of community mobilisation, unlike XR’s current fixation on mass arrests.
 
 Furthermore, Chenoweth and Stephan quote and affirm Rutgers University sociologist Kurt Schock’s conclusion that nonviolent strategies don’t work as well in democracies as they do in non-democratic regimes — a finding largely corroborated by their data.
 
@@ -58,7 +59,7 @@ Sharp’s theory of change is about using nonviolent methods to overturn or devo
 
 His model is based on the idea that for a government to function, it relies on a baseline of “consent” from wider society. Methods of exclusively *nonviolent* civil disobedience are mechanisms to “disrupt” this base of tacit public consent by mobilising people to cease their "obedience", which will make the state escalate its violence. As state's violence increases, the more illegitimate is appears in the eye of the public, the more accelerates the disruption of the tacit consent. The intensification of violence by the state ends up collapsing it.
 
-Since all this theory is focused on undermining the legitimacy of an overtly authoritarian regime, there is no evidence that it would apply to a Western neoliberal democracy like the UK, specially without a context of grassroots community-organising in the city being disrupted. What's then missed by Hallam is that XR should be embedded with and mobilised through diverse communities throughout the capital, to ensure they continue to support the disruption action as the state radicalises its responses.
+Since all this theory is focused on undermining the legitimacy of an overtly authoritarian regime, there is no evidence that it would apply to a Western neoliberal democracy like the UK, specially without a context of grassroots community-organising in the city. What's then missed by Hallam is that XR should be embedded with and mobilised through diverse communities throughout the capital, to ensure they continue to support the disruption action as the state radicalises its responses.
 
 This is why disruptions like the one targeting the London tube system, and related ones which affect ordinary Londoners, backfired. While most people are worried about climate change, they do not grasp the gravity of the situation threatening not just social collapse but even human extinction, and don't see that the very system which marginalises, weakens and undermines them is simultaneously and co-extensively responsible for this extinction trajectory.
 
@@ -68,7 +69,7 @@ Since XR's actions have been developed without consultation and engagement from 
 
 The race and class privilege of XR’s core organisers means they have very little engagement with the communities whose support they require to be effective in building a mass movement. Both XR activist [Sam J. Knights](https://medium.com/@sam.j.knights/extinction-rebellion-we-need-to-talk-about-the-future-95459aa4d4e0) and Professor Julia Steinberger, ecological economist at the University of Leeds, have written about “XR's complete and utter failure to engage with issues of race.”, citing many specific examples about non-white people badly mistreated by XR.
 
-Like many capitals in the world that XR wants to disrupt, London is a very diverse city —[44% of its residents are ethnic minorities](https://qz.com/337508/london-has-more-people-than-ever-and-44-are-ethnic-minorities/)—, and the [most unequal region in England](https://www.trustforlondon.org.uk/documents/69/LondonPovertyProfilefull.pdf), where almost half of some ethnic minorities experience employment and housing disadvantage and are paid below the London Living Wage.
+Like many capitals in the world that XR wants to disrupt, London is a very diverse city —[44% of its residents are ethnic minorities](https://qz.com/337508/london-has-more-people-than-ever-and-44-are-ethnic-minorities/), and the [most unequal region in England](https://www.trustforlondon.org.uk/documents/69/LondonPovertyProfilefull.pdf), where almost half of some ethnic minorities experience employment and housing disadvantage and are paid below the London Living Wage.
 
 The same system which is responsible for our extinction trajectory is also hiking up poverty, inequality and structural racism. Diversity is not one of those nice but minor progressive issues that can be dealt with after we prevent extinction. It is a critical precondition for XR growing and sustaining its capability to mobilising the masses.
 
